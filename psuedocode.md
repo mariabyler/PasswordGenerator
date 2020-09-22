@@ -5,7 +5,7 @@ want user to be able to select length of password (8-128)
 determine the type of character
     let them know if those characters are allowable (error message)
 choose between yes and no if they want special characters, uppercase, numbers
-store those choices for later action 
+store those choices for later action
 use the length + options to generate 
     joining arrays (pick from the selected pool to build out password)
 
