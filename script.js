@@ -61,8 +61,7 @@ function generatePassword(charset) {
         password = password + charset[randomNumber]; 
         console.log(password); 
         console.log(randomNumber); 
-    }
-    password = password.toString(); 
+    } 
     return password; 
 }
 
